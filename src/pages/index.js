@@ -18,16 +18,24 @@ const IndexPage = () => (
         pengelolaan Badan Amil Zakat Nasional (BAZNAS).
       </p>
       <span className="px-3">
-        <Button className="px-4 py-3">SCB dalam Angka</Button>
+        <Button className="px-4 py-3 " variant="outline-primary">
+          SCB dalam Angka
+        </Button>
       </span>
       <span className="px-3">
-        <Button className="px-4 py-3">Agenda</Button>
+        <Button className="px-4 py-3" variant="outline-primary">
+          Agenda
+        </Button>
       </span>
       <span className="px-3">
-        <Button className="px-4 py-3">Berita terkini</Button>
+        <Button className="px-4 py-3" variant="outline-primary">
+          Berita terkini
+        </Button>
       </span>
       <span className="px-3">
-        <Button className="px-4 py-3">SCB dalam 24Jam</Button>
+        <Button className="px-4 py-3" variant="outline-primary">
+          SCB dalam 24Jam
+        </Button>
       </span>
     </div>
     <div className="container text-center my-5 py-5">
